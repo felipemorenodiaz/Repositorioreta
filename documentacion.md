@@ -1,4 +1,3 @@
 # Título
 ## Subtítulo
 
-Documentación
